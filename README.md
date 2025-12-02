@@ -41,11 +41,6 @@ Through structured SQL querying and exploratory analysis, this project answers c
 
 The dataset used in this project was obtained from the **Kaggle Walmart Sales Forecasting Competition**.
 
-It contains **1,000 sales transactions** from Walmart branches located in:
-- **Mandalay**
-- **Yangon**
-- **Naypyitaw**
-
 The dataset consists of **17 columns**, including:
 
 | Column | Description |
